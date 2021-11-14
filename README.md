@@ -12,7 +12,9 @@
   [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 </p>  
 
-![image](https://user-images.githubusercontent.com/84115928/141673198-7537b494-ed5d-43c0-baa3-db22f80ca04a.jpg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/84115928/141673198-7537b494-ed5d-43c0-baa3-db22f80ca04a.jpg">
+</p>
 
 # 📝Problem Statement
 
