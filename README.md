@@ -13,6 +13,14 @@
 </p>  
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/84115928/141673300-262b9d9f-58b8-4a53-b9a2-e950a02bf070.gif">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/84115928/141673294-97ec4e38-baf0-456a-ad92-995eac45be97.png">
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/84115928/141673198-7537b494-ed5d-43c0-baa3-db22f80ca04a.jpg">
 </p>
 
