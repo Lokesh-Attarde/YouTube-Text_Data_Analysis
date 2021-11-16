@@ -18,22 +18,8 @@
 
 # 📝Problem Statement
 
-Analysis of the following is required by the Sales Team of Hotel Bookings:
-
-    1. Analyze from which Country most guests come?
-    2. Country-wise Guests distribution.
-    3. Price of Room Types per Night.
-    4. How does the Price per Night vary over a Year?
-    5. Distribution of Nights Spent at Hotels by Market Segment and Hotel Type.
-    6. Preference of Guests in terms of Meal's.
-    7. Relationship between Special Requests and Cancellation.
-    8. Which are the Most busiest Months throughout a Year.
-    9. How long do People Stay at the Hotels?
-    10. Price per Night w.r.t. Market Segment and Room Type.
-    11. Distribution w.r.t. Cancellation of Bookings.
-    12. Which Month have the Highest Number of Cancellations?
-
-And many more!!
+- To perform Sentiment Analysis on YouTube Comments, EDA for the Positive & Negative Sentences. Secondly, Find-out the Correlation between Likes, Views and Dislikes.
+- Furthermore, Find-out what are Trending Tags on YouTube? and Perform Emoji's Analysis, etc.
 
 # ⏳ Dataset
 Download the dataset for this project from following Link -
