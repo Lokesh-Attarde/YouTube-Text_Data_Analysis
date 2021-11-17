@@ -1,5 +1,5 @@
 
-# Sentiment & Emoji's Analysis: YouTube - Text Data Analysis Project 🔥🍁
+# Sentiment Analysis: YouTube - Text Data Analysis Project 🔥🍁
 
 <p align="center">
 
@@ -40,6 +40,8 @@ This dataset contains all the details of the trending YouTube videos along with 
 * Jupyter Notebook is used as IDE.
 * Pandas and NumPy are used for Data Manipulation & Pre-processing and Mathematical functions respectively.
 * For visualization of the plots, Matplotlib, Seaborn, Plotly are used.
+* WordCloud is used to representing the text data.
+* TextBlob is used to perform Sentiment Analysis.
 * GitHub is used as version control system.
 
 <p align="center">
@@ -58,25 +60,27 @@ This dataset contains all the details of the trending YouTube videos along with 
 # 🎉 Tasks performed under Emoji's Analysis:
 <img align="right" alt="Coding" width="100" height="100" src="https://user-images.githubusercontent.com/84115928/142166559-aa181874-e101-4ea9-a2d1-55e7c2859951.png">
 
-* Analysed ***Countries with most guests come from*** using **'Choropleth Maps'**.
-* Moreover, Plotted a **"Choropleth Maps with Animation"** for in-depth analysis on Yearly basis.
-* Test Text 2
+* Extracted all the **"Emoji's"** available in the ***YouTube Comments***.
+* Pre-process them and visualize to figure-out ***Top 20 Most frequently used Emoji's***.
+
+For more details, please go through the Jupyter Notebook attached above and following Glimpses -
 
 # 🌱 Some Exciting Glimpse of the Visuals:
-![Final Glimpse 1](https://user-images.githubusercontent.com/84115928/141301079-637277f2-a00f-4808-9c38-594b22756412.gif)
-![Final Glimpse 2](https://user-images.githubusercontent.com/84115928/141341458-ef8881a7-70b4-4db5-b57e-b3d5795d184b.gif)
-![Final Glimpse 4](https://user-images.githubusercontent.com/84115928/141303002-feaed86b-ba9c-4911-8b08-7b54317a59ef.gif)
+![Glimpse 1](https://user-images.githubusercontent.com/84115928/142187326-6deaf3ef-a5a0-4ce0-ba83-db00286ade5c.gif)
+![Glimpse 2](https://user-images.githubusercontent.com/84115928/142187346-bcab8823-9010-4be1-8d10-490c781ce188.gif)
+<p align="center">
+  <img height="400" src="https://user-images.githubusercontent.com/84115928/142187378-dd8af1ab-5218-4249-a241-0f36064d628b.gif">
+</p>
 
 # 💡 Conclusions
-* In terms of "Resort Hotel", "PRT" is dominated by around "35.2%" of Guests followed by "GBR" and "ESP" having "20.5%" and "10.7%" of guests respectively.
-* "PRT" (Portugal) has the Maximum Number of Guest of around '21.071K' followed by "GBR" (United Kingdom) I.e. UK and "FRA" (France) having '9.67K' and '8.48K' Number of Guests respectively.
-* There is a significant rise of Number of Guests in terms of "PRT", "GBR", and "FRA" from the Year 2015 to 2016. However, again in the Year 2016 to 2017, the Number of Guests proportion has declined rapidly.
-* "A" Category Room, are having Highest Price approx. '500 EUR'. Whereas with respect to this "G" Category Room as well, will see that 'City Hotel Rooms' are Much 'Costlier' than All other Rooms.
-* "Resort Hotel Prices" are much Higher during the 'Summer', whereas at the same time, "Prices" of a "City Hotel" doesn't varied that much.
-   On the other hand, "City Hotels" are Expensive during the 'Spring' or 'Autumn' Season (i.e. In 'May' and 'August').
-* Almost "77.3%" of the Bookings are definitely prefer 'Bed & Breakfast'. Secondly, 'Half Board' (Breakfast and Dinner) kind of Meal's were prefered by around "12.1%" of guests and "8.92%" of guests prefer 'Self-Catering' (No Meals) kind of Bookings.
-
-And so many more!!
+* In terms of Positive Comments - "best", "Awesome", "perfect", "great", "beautiful", "amazing", etc. All the kinds of 'Keyboards' has a 'Higher Priority' than all other Words.
+* In terms of Negative Comments - "boring", "terrible", "worst", "horrible", "disgusting", "awful", etc. All these kinds of 'Keywords' has a 'Higher Priority'.
+* Most Trending 'Tags' on "YouTube" are "iPhone X", "none", "makeup tutorial", "las vegas", "music video", "funny video", etc.
+* Whenever our "Views" are Increasing, our "Likes" are also Rising to a great extent.
+  Similarly, In terms of 'dislikes' vs 'Views' Plot, Whenever our "Views" are Increasing, "dislikes" are Not Rising that much.
+* "Laughing Smiley" Emoji is the "Most frequently used Emoji" (i.e. By "43.94K").
+  Following it, We have "Smiling Face with Heart-Eyes", "Black Heart", "Fire" and All these different Emoji's as well.
+  It means, Most of the Users, who "Comments" on the YouTube Videos are Mostly going to use these Type of Emoji's.
 
 # 🎉 Help Me Improve
 Hello Mr. Reader, if you find any bug or anything else that could add more value in this project then please consider raising it to me I will address them asap.
