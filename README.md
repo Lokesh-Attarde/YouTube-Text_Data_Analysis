@@ -26,25 +26,14 @@ Download the dataset for this project from following Link -
 * [YouTube - Text Data Analysis Dataset](https://drive.google.com/drive/folders/1L7EAm3cqvDwgiyOuRAuZeUazBKVU-syp?usp=sharing)
 
 # 📚 Data Analysis
-In the datasets, we are provided with 32 columns(Features) of data.
+This dataset contains all the details of the trending YouTube videos along with its Likes, Dislikes, Comments, Tags and Views for each video for a particular year.
 
-* **hotel** : Hotel (H1 = Resort Hotel or H2 = City Hotel)
-* **is_canceled** : Value indicating if the booking was canceled (1) or not (0).
-* **arrival_date_year** : Year of arrival date.
-* **arrival_date_month** : Month of arrival date.
-* **stays_in_weekend_nights** : Number of weekend nights (Saturday or Sunday) the guest stayed or booked to stay at the hotel.
-* **stays_in_week_nights** : Number of week nights (Monday to Friday) the guest stayed or booked to stay at the hotel.
-* **adults** : Number of adults.
-* **children** : Number of children.
-* **babies** : Number of babies.
-* **meal** Type of Meal booked. Categories are presented in standard hospitality meal packages.
-* **country** : Country of Origin. Countries are represented in the ISO 3155–3:2013 format.
-* **market_segment** : Market segment designation. In categories, the term "TA" means "Travel Agents" and "TO" means "Tour Operators".
-* **reserved_room_type** : Code of room type reserved.
-* **adr** : Average Daily Rate / Price per night.
-* **total_of_special_requests** : Number of special requests made by the customer.
-
-Out of the 32 features given in the datasets, 20 are Continuous and 12 (including the target variable) are Categorical features.
+* **video_id** : Unique Video ID.
+* **comment_text** : Comments given by Viewers for respective video.
+* **tags** : Tags used on YouTube Video's.
+* **views** : How many number of Views got w.r.t. each Video's.
+* **likes** : Total Likes hit by the Viewers.
+* **dislikes** : Total Dislikes hit by the Viewers.
 
 # 🖥️ Technologies:
 ## 🛠️ Tools Used
@@ -54,10 +43,12 @@ Out of the 32 features given in the datasets, 20 are Continuous and 12 (includin
 * GitHub is used as version control system.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/84115928/141269995-77714aa7-9b0c-4b11-a94c-e1639a0a743b.png">
+  <img src="https://user-images.githubusercontent.com/84115928/142146950-3081ea19-cd90-4999-8f67-728ceb57ac8a.png">
 </p>
 
-# 🎉 Tasks performed under Choropleth Maps Analysis:
+# 🎉 Tasks performed under Sentiment Analysis:
+* 
+
 * Analysed ***Countries with most guests come from*** using **'Choropleth Maps'**.
 * Moreover, Plotted a **"Choropleth Maps with Animation"** for in-depth analysis on Yearly basis.
 
