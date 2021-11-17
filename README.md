@@ -1,5 +1,5 @@
 
-# Sentiment Analysis: YouTube - Text Data Analysis Project 🔥🍁
+# Sentiment & Emoji's Analysis: YouTube - Text Data Analysis Project 🔥🍁
 
 <p align="center">
 
@@ -47,10 +47,20 @@ This dataset contains all the details of the trending YouTube videos along with 
 </p>
 
 # 🎉 Tasks performed under Sentiment Analysis:
-* 
+<p align="center">
+  <img width="550" height="400" src="https://user-images.githubusercontent.com/84115928/142150826-4afa030b-bfcb-489c-8f43-c39d93986ac3.jpeg">
+</p>
+
+* Extracted the **"Polarity"** of each and every YouTube Comments using ***TextBlob*** Library.
+* Pre-process the ***Textual Data***, eliminate the **'StopWords'**. 
+* Perform variety of Analysis on different ***Use Cases*** and Visualize it using **"WordCloud"**. 
+
+# 🎉 Tasks performed under Emoji's Analysis:
+<img align="right" alt="Coding" width="100" height="100" src="https://user-images.githubusercontent.com/84115928/142166559-aa181874-e101-4ea9-a2d1-55e7c2859951.png">
 
 * Analysed ***Countries with most guests come from*** using **'Choropleth Maps'**.
 * Moreover, Plotted a **"Choropleth Maps with Animation"** for in-depth analysis on Yearly basis.
+* Test Text 2
 
 # 🌱 Some Exciting Glimpse of the Visuals:
 ![Final Glimpse 1](https://user-images.githubusercontent.com/84115928/141301079-637277f2-a00f-4808-9c38-594b22756412.gif)
@@ -65,15 +75,6 @@ This dataset contains all the details of the trending YouTube videos along with 
 * "Resort Hotel Prices" are much Higher during the 'Summer', whereas at the same time, "Prices" of a "City Hotel" doesn't varied that much.
    On the other hand, "City Hotels" are Expensive during the 'Spring' or 'Autumn' Season (i.e. In 'May' and 'August').
 * Almost "77.3%" of the Bookings are definitely prefer 'Bed & Breakfast'. Secondly, 'Half Board' (Breakfast and Dinner) kind of Meal's were prefered by around "12.1%" of guests and "8.92%" of guests prefer 'Self-Catering' (No Meals) kind of Bookings.
-* Most of the Customers are not made any kind of 'Special Requests'.
-   Or Almost "50%" of the Bookings don't have any kind of 'Special Requests'.
-* In terms of "City Hotel", We have More Guests during the 'Autumn' & 'Spring' Season when the Prices are also 'Highest'. 
-    * Whereas In terms of our "Resort Hotel", the 'Most busiest Month' is "August" followed by "July" & "October".
-    * In a Nutshell, Will can say, both the Hotels have the Fewest Guests during the "Winter" (i.e. Jan, Nov & Dec) And although Prices are also Lower.
-* Majority of People are prefer to Stay in the "City Hotel", mostly for '3' Nights. It might because of the "Prices" of a "City Hotel" doesn't varied much when we compared it with "Resort Hotel".
-* "Online TA" is going to Dominate on each and every Category of Market Segment by '47.5%'. We can also say that, Almost "50%" of the Bookings are takes place in this "Online" way.
-* Almost "75%" of Cancel Bookings are with respect to our "City Hotel, whereas "25%" are with respect to our "Resort Hotel Bookings".
-* "August" Month has the Highest Number of Cancellations followed by "July" & "May".
 
 And so many more!!
 
