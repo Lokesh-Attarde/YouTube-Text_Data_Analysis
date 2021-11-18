@@ -73,7 +73,7 @@ For more details, please go through the Jupyter Notebook attached above and foll
 </p>
 
 # 💡 Conclusions
-* In terms of Positive Comments - "best", "Awesome", "perfect", "great", "beautiful", "amazing", etc. All the kinds of 'Keyboards' has a 'Higher Priority' than all other Words.
+* In terms of Positive Comments - "best", "Awesome", "perfect", "great", "beautiful", "amazing", etc. All the kinds of 'Keywords' has a 'Higher Priority' than all other Words.
 * In terms of Negative Comments - "boring", "terrible", "worst", "horrible", "disgusting", "awful", etc. All these kinds of 'Keywords' has a 'Higher Priority'.
 * Most Trending 'Tags' on "YouTube" are "iPhone X", "none", "makeup tutorial", "las vegas", "music video", "funny video", etc.
 * Whenever our "Views" are Increasing, our "Likes" are also Rising to a great extent.
