@@ -42,6 +42,7 @@ This dataset contains all the details of the trending YouTube videos along with 
 * For visualization of the plots, Matplotlib, Seaborn, Plotly are used.
 * WordCloud is used to representing the text data.
 * TextBlob is used to perform Sentiment Analysis.
+* Emoji's Analysis is performed using Emoji Module.
 * GitHub is used as version control system.
 
 <p align="center">
